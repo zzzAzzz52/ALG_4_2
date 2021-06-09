@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  UnitTest2.cpp
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\List.h(75,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\List.h(77,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\List.h(214,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\List.h(233,25): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\List.h(234,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\List.h(246,24): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Tree.h(464,31): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Source.cpp(29,27): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Source.cpp(36,31): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Source.cpp(168,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Source.cpp(180,31): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Source.cpp(189,27): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Source.cpp(197,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Source.cpp(220,27): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\UnitTest2\UnitTest2.cpp(77,29): warning C4101: exception: неиспользованная локальная переменная
+C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Tree.h(422): warning C4715: RBTree::getNode: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Debug\UnitTest2.lib и объект C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> C:\Users\zzzAzzz\Desktop\ALG labs\ALGSTRD2\Debug\UnitTest2.dll
